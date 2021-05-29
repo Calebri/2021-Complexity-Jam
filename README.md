@@ -7,9 +7,11 @@ Your goal is to survive from 8AM to 2PM. The stress mechanic is currently unimpl
 Button | Function
 --- | --- 
 Move mouse to the bottom of the screen | Flip monitor down
-`0`-`9` | Input numbers on the keypad
-`C` or `.` | Clear keypad input
-`E` or `Enter`| Submit keypad input
+`0`-`9`* | Input numbers on the keypad
+`C` or `.`* | Clear keypad input
+`E` or `Enter`*| Submit keypad input
+
+*These inputs can also be controlled by the on-screen keypad
 
 ## Downloads
 You can download the latest release from the [releases tab](https://github.com/Calebri/2021-Complexity-Jam/releases).
