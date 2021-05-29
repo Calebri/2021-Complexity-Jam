@@ -14,4 +14,4 @@ Move mouse to the bottom of the screen | Flip monitor down
 *These inputs can also be controlled by the on-screen keypad
 
 ## Downloads
-You can download the latest release from the [releases tab](https://github.com/Calebri/2021-Complexity-Jam/releases).
+You can play the latest release online using [this link](https://calebri.github.io/2021-Complexity-Jam/). You can also download the latest release to play offline from the [releases tab](https://github.com/Calebri/2021-Complexity-Jam/releases).
