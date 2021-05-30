@@ -2,7 +2,7 @@
 This is the home for our submission to the 2021 Complexity Jam
 
 ## How to Play
-Your goal is to survive from 8AM to 2PM. The stress mechanic is currently unimplemented so there is no way to loose. When implemented, you will have to complete math problems in the "Math" tab to survive. You can still complete math problems by entering answers in on the keypad. The keypad can either be controlled by keyboard inputs or by the on-screen keypad. To answer, press the submit button (E).
+Your goal is to survive from 8AM to 2PM. You have a health bar. If there are math questions that are unanswered, you will start loosing health. You can complete math problems by entering answers in on the keypad. The keypad can either be controlled by keyboard inputs or by the on-screen keypad. To answer, press the submit button (E). You can regenerate health by closing the monitor while there are no unanswered questions.
 ### Controls
 Button | Function
 --- | --- 
