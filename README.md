@@ -17,4 +17,4 @@ Move mouse to the bottom of the screen | Flip monitor down
 You can play the latest release online using [this link](https://calebri.github.io/2021-Complexity-Jam/). You can also download the latest release to play offline from the [releases tab](https://github.com/Calebri/2021-Complexity-Jam/releases).
 
 ## Report a bug
-If you find a bug, please [make a new issue](https://github.com/Calebri/2021-Complexity-Jam/issues/new) with the `bug` tag. I will fix it eventually.
+If you find a bug, please [make a new issue](https://github.com/Calebri/2021-Complexity-Jam/issues/new) with the `bug` label. I will fix it eventually.
